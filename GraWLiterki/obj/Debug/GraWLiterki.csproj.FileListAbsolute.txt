@@ -1,0 +1,9 @@
+c:\users\arnold\documents\visual studio 2015\Projects\GraWLiterki\GraWLiterki\bin\Debug\GraWLiterki.exe.config
+C:\Users\Arnold\Documents\Visual Studio 2015\Projects\GraWLiterki\GraWLiterki\bin\Debug\GraWLiterki.exe
+C:\Users\Arnold\Documents\Visual Studio 2015\Projects\GraWLiterki\GraWLiterki\bin\Debug\GraWLiterki.pdb
+C:\Users\Arnold\Documents\Visual Studio 2015\Projects\GraWLiterki\GraWLiterki\obj\Debug\GraWLiterki.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Documents\Visual Studio 2015\Projects\GraWLiterki\GraWLiterki\obj\Debug\GraWLiterki.Form1.resources
+C:\Users\Arnold\Documents\Visual Studio 2015\Projects\GraWLiterki\GraWLiterki\obj\Debug\GraWLiterki.Properties.Resources.resources
+C:\Users\Arnold\Documents\Visual Studio 2015\Projects\GraWLiterki\GraWLiterki\obj\Debug\GraWLiterki.csproj.GenerateResource.Cache
+C:\Users\Arnold\Documents\Visual Studio 2015\Projects\GraWLiterki\GraWLiterki\obj\Debug\GraWLiterki.exe
+C:\Users\Arnold\Documents\Visual Studio 2015\Projects\GraWLiterki\GraWLiterki\obj\Debug\GraWLiterki.pdb
